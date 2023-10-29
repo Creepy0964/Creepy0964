@@ -1,5 +1,8 @@
-# Hello! Welcome to my GitHub page!
-Here you can find LyandOS repository and my other projects.
-My main language is C#, but I also learn C++ and make sites in HTML, CSS and JS.
+# Creepy0964
+he/they, 16 y.o.
 
-My Discord: Creepy0964#9567. I always answer adequate messages!
+i fuck around, write code and music.
+my main language is JS, but i also know C# and a bit of C++/C, NASM and Python. currently learning React.JS and some Backend/DevOps things. that's it :p
+
+### TODO
+- [ ] design this shit
