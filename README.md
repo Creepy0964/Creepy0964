@@ -13,6 +13,8 @@
 
 - reach me at [**creepy0964.t.me**](https://t.me/creepy0964)
 
+- all my projects are available right here, in my github profile. the best or the most important for me are pinned down below this description
+
 - fun fact: **i have an unusual voice range**
 
 <h3 align="left">Connect with me:</h3>
