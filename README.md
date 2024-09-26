@@ -11,9 +11,9 @@
 
 - you can ask me about **really different things. would be pleased to help**
 
-- reach me at [https://t.me/creepy0964](**creepy0964.t.me**)
+- reach me at [**creepy0964.t.me**](https://t.me/creepy0964)
 
-- fun fact **i have an unusual voice range**
+- fun fact: **i have an unusual voice range**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
