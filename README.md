@@ -11,13 +11,14 @@
 
 - you can ask me about **really different things. would be pleased to help**
 
-- reach me at **creepy0964.t.me**
+- reach me at [https://t.me/creepy0964](**creepy0964.t.me**)
 
 - fun fact **i have an unusual voice range**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/creepy0964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="creepy0964" height="30" width="40" /></a>
+<a href="https://t.me/creepy0964" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="creepy0964" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
