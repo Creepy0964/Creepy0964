@@ -5,9 +5,9 @@
 
 - working on **some random projects that i make up in my head**
 
-- currently learning **golang, svelte, k8s and some other devops cool tools**
-
 - however, my main goal is **ost-wiki (private at now)**
+
+- currently learning **golang, svelte, k8s and some other devops cool tools**
 
 - you can ask me about **really different things. would be pleased to help**
 
